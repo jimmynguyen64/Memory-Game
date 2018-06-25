@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Kiba",
+    "image": "https://i.pinimg.com/originals/55/68/ba/5568ba7bbc90c786a038cf099c442527.jpg"
+    },
+  {
+    "id": 2,
+    "name": "Minato",
+    "image": "https://i.pinimg.com/originals/89/0b/89/890b89baab61959301e4bbd17b2aa840.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hinata",
+    "image": "http://images2.fanpop.com/image/photos/11500000/Naruto-Shippuden-wallpapers-naruto-11510967-1024-640.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sasuke",
+    "image": "https://i.pinimg.com/originals/c7/3a/5a/c73a5ae98d1947a40fe41ae13343a6c3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Jiraiya",
+    "image": "https://i.pinimg.com/originals/e4/fb/6f/e4fb6fb0472b2e94dbd5ceb84378012c.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Guy",
+    "image": "https://i.pinimg.com/originals/43/36/aa/4336aa8db8fc36455af0c9dec7ad1e03.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ino",
+    "image": "https://i.pinimg.com/originals/b6/15/64/b61564a0ffc78d6c543c743f2d8d2705.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Temari",
+    "image": "https://i.pinimg.com/originals/a3/7e/dd/a37eddcc3381081733c596f0de0e68b0.jpg",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Kurenai",
+    "image": "https://i.pinimg.com/originals/a8/42/6e/a8426e50c94d0c01cb5fa022770066b3.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Madara",
+    "image": "https://i.pinimg.com/originals/c4/b2/73/c4b27384fe4ce4f5c4c509bac86e6c56.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Tenten",
+    "image": "https://i.pinimg.com/originals/9b/64/24/9b64246c3d8713136c2846883b9889be.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Naruto",
+    "image": "https://vignette.wikia.nocookie.net/topstrongestanimanga/images/3/36/Photo.jpg/revision/latest?cb=20150209042653"
+  }
+]
